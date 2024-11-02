@@ -1,6 +1,6 @@
 npm init -y
 npm update inflight glob
-# commitlint commit 检查 && git hook by husky
+# commitlint commit 检查 &&husky git hook 
 npm install --save-dev @commitlint/{cli,config-conventional}
 echo "export default { extends: ['@commitlint/config-conventional'] };" > commitlint.config.js
 npm install --save-dev husky
