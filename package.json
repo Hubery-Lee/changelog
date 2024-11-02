@@ -28,7 +28,8 @@
       "release": false
     },
     "gitlab": {
-      "release": false
+      "release": false,
+      "releaseName": "v${version}"
     },
     "npm": {
       "publish": false
