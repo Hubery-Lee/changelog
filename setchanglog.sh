@@ -7,5 +7,5 @@ npm install --save-dev husky
 npm pkg set scripts.commitlint="commitlint --edit"
 echo "npm run commitlint \${1}" > .husky/commit-msg
 
-# release
+# release it 在本地和远程同步changelog
 npm install release-it @release-it/conventional-changelog --save-dev   
