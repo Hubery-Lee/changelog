@@ -1,5 +1,12 @@
 
 
+## <small>1.0.2 (2024-11-02)</small>
+
+* fix: deploy setting change ([98f6946](https://github.com/Hubery-Lee/changelog/commit/98f6946))
+* fix: deploy setting changed ([8bd005a](https://github.com/Hubery-Lee/changelog/commit/8bd005a))
+* fix: package.json modified ([28bc6ed](https://github.com/Hubery-Lee/changelog/commit/28bc6ed))
+* fix : set vim as the git editor ([37cacd6](https://github.com/Hubery-Lee/changelog/commit/37cacd6))
+
 * fix: deploy setting changed (e1de358)
 * fix : set vim as the git editor (37cacd6)
 * fix: package.json modified (28bc6ed)
