@@ -1,5 +1,8 @@
 
 
+* fix: package.json modified (28bc6ed)
+* fix: deploy setting change (98f6946)
+
 ## <small>1.0.1 (2024-11-02)</small>
 
 * fix:  github configure false and add gitlab of package.json ([5b245b8](https://github.com/Hubery-Lee/changelog/commit/5b245b8))

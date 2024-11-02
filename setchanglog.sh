@@ -1,4 +1,11 @@
 # install npm
+###
+ # @Date: 2024-11-02 10:17:19
+ # @LastEditors: hubery-lee hrbeulh@126.com
+ # @LastEditTime: 2024-11-02 11:16:24
+ # @FilePath: /changelog/setchanglog.sh
+ # @Description: Do not edit
+### 
 sudo apt install npm
 npm config set registry http://registry.npmmirror.com
 
@@ -20,3 +27,6 @@ echo "npm run commitlint \${1}" > .husky/commit-msg
 # release it 在本地和远程同步changelog
 npm update inflight glob
 npm install release-it @release-it/conventional-changelog --save-dev   
+
+# set git editor vim
+# git config --global core.editor "vim"
