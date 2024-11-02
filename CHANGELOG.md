@@ -1,5 +1,10 @@
 
 
+* fix: deploy setting changed (e1de358)
+* fix : set vim as the git editor (37cacd6)
+* fix: package.json modified (28bc6ed)
+* fix: deploy setting change (98f6946)
+
 * fix: package.json modified (28bc6ed)
 * fix: deploy setting change (98f6946)
 

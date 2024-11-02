@@ -5,29 +5,22 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "commitlint": "commitlint --edit",
+    "prepare": "husky",
     "release": "release-it",
-    "release:patch": "release-it patch",
-    "release:minor": "release-it minor",
-    "release:major": "release-it major"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Hubery-Lee/changelog.git"
+    "release-major": "release-it major",
+    "release-minor": "release-it minor",
+    "release-patch": "release-it patch"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Hubery-Lee/changelog/issues"
-  },
-  "homepage": "https://github.com/Hubery-Lee/changelog#readme",
   "description": "",
   "devDependencies": {
     "@commitlint/cli": "^19.5.0",
     "@commitlint/config-conventional": "^19.5.0",
-    "@release-it/conventional-changelog": "^8.0.1",
+    "@release-it/conventional-changelog": "^9.0.2",
     "husky": "^9.1.6",
-    "release-it": "^17.1.1"
+    "release-it": "^17.10.0"
   },
   "dependencies": {
     "glob": "^11.0.0",
