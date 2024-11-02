@@ -1,5 +1,7 @@
 
 
+## <small>1.0.3 (2024-11-02)</small>
+
 ## <small>1.0.2 (2024-11-02)</small>
 
 * fix: deploy setting change ([98f6946](https://github.com/Hubery-Lee/changelog/commit/98f6946))
