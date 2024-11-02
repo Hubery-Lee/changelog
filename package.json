@@ -1,24 +1,37 @@
 {
   "name": "changelog",
-  "version": "1.0.1",
-  "main": "index.js",
+  "version": "1.0.0",
+  "main": "commitlint.config.js",
   "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "commitlint": "commitlint --edit",
     "release": "release-it",
     "release:patch": "release-it patch",
     "release:minor": "release-it minor",
     "release:major": "release-it major",
-    "commitlint": "commitlint --edit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hubery-Lee/changelog.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hubery-Lee/changelog/issues"
+  },
+  "homepage": "https://github.com/Hubery-Lee/changelog#readme",
   "description": "",
-  "dependencies": {
+  "devDependencies": {
     "@commitlint/cli": "^19.5.0",
     "@commitlint/config-conventional": "^19.5.0",
-    "@release-it/conventional-changelog": "^9.0.2",
-    "cz-conventional-changelog": "^3.3.0",
-    "release-it": "^17.10.0"
+    "@release-it/conventional-changelog": "^8.0.1",
+    "husky": "^9.1.6",
+    "release-it": "^17.1.1"
+  },
+  "dependencies": {
+    "glob": "^11.0.0",
+    "inflight": "^1.0.6"
   },
   "release-it": {
     "git": {
