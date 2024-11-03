@@ -1,9 +1,12 @@
 
 
+<<<<<<< HEAD
 ## <small>1.0.6 (2024-11-03)</small>
 
 * fix: set package.json preset to angular ([95a5466](https://github.com/Hubery-Lee/changelog/commit/95a5466))
 
+=======
+>>>>>>> dde167a (chore(release): 1.0.5)
 ## <small>1.0.5 (2024-11-03)</small>
 
 * fix: 1.0.4 ([ff5d2cc](https://github.com/Hubery-Lee/changelog/commit/ff5d2cc))
