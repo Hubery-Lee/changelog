@@ -1,5 +1,9 @@
 
 
+## <small>1.0.7 (2024-11-03)</small>
+
+* fix: fix cherry-pick chore(release): 1.0.5 ([4015310](https://github.com/Hubery-Lee/changelog/commit/4015310))
+
 <<<<<<< HEAD
 ## <small>1.0.6 (2024-11-03)</small>
 
