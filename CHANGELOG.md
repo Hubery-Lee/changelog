@@ -1,5 +1,10 @@
 
 
+## <small>1.0.4 (2024-11-03)</small>
+
+* fix: setup package.json has been changed ([c0418bb](https://github.com/Hubery-Lee/changelog/commit/c0418bb))
+* format changed ([e1ea7c6](https://github.com/Hubery-Lee/changelog/commit/e1ea7c6))
+
 ## <small>1.0.3 (2024-11-02)</small>
 
 ## <small>1.0.2 (2024-11-02)</small>
