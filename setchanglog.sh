@@ -2,11 +2,12 @@
 ###
  # @Date: 2024-11-02 10:17:19
  # @LastEditors: hubery-lee hrbeulh@126.com
- # @LastEditTime: 2024-11-02 14:01:53
+ # @LastEditTime: 2024-11-03 17:07:40
  # @FilePath: /changelog/setchanglog.sh
  # @Description: Do not edit
 ### 
-sudo apt install npm
+# sudo apt install npm
+sudo npm install -g npm
 npm config set registry http://registry.npmmirror.com
 
 npm init -y

@@ -14,7 +14,6 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "devDependencies": {
     "@commitlint/cli": "^19.5.0",
     "@commitlint/config-conventional": "^19.5.0",
@@ -31,7 +30,8 @@
       "commitMessage": "chore(release): ${version}"
     },
     "github": {
-      "release": true
+      "release": true,
+      "github.web": true
     },
     "gitlab": {
       "release": false,
@@ -54,10 +54,34 @@
               "type": "fix",
               "section": "Bug Fixes"
             },
-            {}
+            {
+              "type": "docs",
+              "section": "Documentation"
+            },
+            {
+              "type": "chore",
+              "section": "Maintenance"
+            },
+            {
+              "type": "refactor",
+              "section": "Code Refactoring"
+            },
+            {
+              "type": "perf",
+              "section": "Performance Improvements"
+            },
+            {
+              "type": "test",
+              "section": "Tests"
+            },
+            {
+              "type": "style",
+              "section": "Code Style"
+            }
           ]
         }
       }
     }
-  }
+  },
+  "description": ""
 }
