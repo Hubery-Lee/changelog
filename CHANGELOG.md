@@ -1,16 +1,20 @@
+<!--
+ * @Date: 2024-11-03 18:54:37
+ * @LastEditors: hubery-lee hrbeulh@126.com
+ * @LastEditTime: 2024-11-03 19:01:39
+ * @FilePath: /changelog/CHANGELOG.md
+ * @Description: Do not edit
+-->
 
 
 ## <small>1.0.7 (2024-11-03)</small>
 
 * fix: fix cherry-pick chore(release): 1.0.5 ([4015310](https://github.com/Hubery-Lee/changelog/commit/4015310))
 
-<<<<<<< HEAD
 ## <small>1.0.6 (2024-11-03)</small>
 
 * fix: set package.json preset to angular ([95a5466](https://github.com/Hubery-Lee/changelog/commit/95a5466))
 
-=======
->>>>>>> dde167a (chore(release): 1.0.5)
 ## <small>1.0.5 (2024-11-03)</small>
 
 * fix: 1.0.4 ([ff5d2cc](https://github.com/Hubery-Lee/changelog/commit/ff5d2cc))
