@@ -1,5 +1,9 @@
 
 
+## 1.1.0 (2024-11-04)
+
+* feat: add git note with graph ([66dbe31](https://github.com/Hubery-Lee/changelog/commit/66dbe31))
+
 ## <small>1.0.8 (2024-11-04)</small>
 
 * fix: add git structure ([4d14ab8](https://github.com/Hubery-Lee/changelog/commit/4d14ab8))
