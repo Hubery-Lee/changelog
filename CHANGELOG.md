@@ -1,3 +1,9 @@
+
+
+## <small>1.0.8 (2024-11-04)</small>
+
+* fix: add git structure ([4d14ab8](https://github.com/Hubery-Lee/changelog/commit/4d14ab8))
+
 <!--
  * @Date: 2024-11-03 18:54:37
  * @LastEditors: hubery-lee hrbeulh@126.com
