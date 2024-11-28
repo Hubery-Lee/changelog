@@ -1,10 +1,10 @@
 <mxfile host="65bd71144e">
     <diagram id="Z5890iHaOlJqOxT_fTK_" name="Page-1">
-        <mxGraphModel dx="3206" dy="1289" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="3334" dy="1126" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="372" value="" style="group" vertex="1" connectable="0" parent="1">
+                <mxCell id="372" value="" style="group" parent="1" vertex="1" connectable="0">
                     <mxGeometry x="-839" y="40" width="1329" height="2755" as="geometry"/>
                 </mxCell>
                 <mxCell id="83" value="" style="group" parent="372" vertex="1" connectable="0">
@@ -787,8 +787,8 @@
                 <mxCell id="367" value="switch&amp;nbsp; 切换" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=22;fontFamily=Architects Daughter;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="372" vertex="1">
                     <mxGeometry x="459.00000000000006" y="2115" width="150" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="368" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://mokkapps.twic.pics/mokkapps.de/blog/how-to-automatically-generate-a-helpful-changelog-from-your-git-commit-messages/semver_ep1zac.jpg;" parent="372" vertex="1">
-                    <mxGeometry x="41.99000000000012" y="2245" width="911.34" height="510" as="geometry"/>
+                <mxCell id="368" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://mokkapps.twic.pics/mokkapps.de/blog/how-to-automatically-generate-a-helpful-changelog-from-your-git-commit-messages/semver_ep1zac.jpg;clipPath=inset(0% 0% 0% 0%);" parent="372" vertex="1">
+                    <mxGeometry x="41.99000000000012" y="2245" width="911.34" height="510.3504" as="geometry"/>
                 </mxCell>
                 <mxCell id="369" value="&lt;b&gt;github release 版本命名规则&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=32;fontFamily=Architects Daughter;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="372" vertex="1">
                     <mxGeometry x="29" y="2165" width="430" height="50" as="geometry"/>
